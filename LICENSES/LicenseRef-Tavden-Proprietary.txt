@@ -1,0 +1,45 @@
+TAVDEN ZERO — EVALUATION SOFTWARE LICENCE
+Version 0.1 — 4 September 2026
+
+Copyright (c) 2026 James Murphy. All rights reserved.
+
+1. Permission
+
+The copyright holder grants an end user a limited, non-exclusive permission
+to download, install and use an official Tavden Zero binary on supported
+hardware for lawful personal, educational, evaluation or internal use.
+
+2. Tavden-authored source code
+
+Tavden-authored source code is proprietary. Source made visible in a public
+repository is provided for transparency and technical review; it is not
+licensed for copying, modification, redistribution, sublicensing, sale or
+commercial exploitation unless separate written permission has been granted
+by the copyright holder.
+
+3. Third-party software
+
+This project incorporates and builds against third-party software. Those
+components are governed by their own licences. Nothing in this licence
+removes, limits or overrides permissions granted by a third-party licence.
+Required notices are supplied with the project and binary package.
+
+4. Branding
+
+This licence does not grant permission to use the Tavden name, logos, product
+names or visual identity to imply endorsement, affiliation or an official
+Tavden product.
+
+5. Lawful use
+
+The software must be used lawfully and only on systems, networks and devices
+for which the user has appropriate ownership or authorisation.
+
+6. Warranty
+
+The software is provided as-is, without warranties to the maximum extent
+permitted by law. Nothing in this licence excludes rights or liabilities that
+cannot lawfully be excluded.
+
+For commercial licensing or other permissions, contact Tavden through the
+official project channels published with the release.

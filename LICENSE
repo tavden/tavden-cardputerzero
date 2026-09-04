@@ -1,0 +1,25 @@
+Tavden Zero — licensing summary
+
+This repository contains code under more than one licence.
+
+Files marked:
+
+    SPDX-License-Identifier: LicenseRef-Tavden-Proprietary
+
+are Tavden-authored software governed by:
+
+    LICENSES/LicenseRef-Tavden-Proprietary.txt
+
+Files marked:
+
+    SPDX-License-Identifier: MIT
+
+are template-derived or permissively contributed software governed by:
+
+    LICENSES/MIT.txt
+
+Third-party libraries and assets retain their own licences. See
+THIRD-PARTY-NOTICES.md and assets/fonts/LICENSE.txt.
+
+Copyright (c) 2026 James Murphy. Tavden-authored materials are reserved except
+where an individual file expressly states otherwise.

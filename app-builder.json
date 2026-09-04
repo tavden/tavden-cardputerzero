@@ -1,0 +1,38 @@
+{
+  "app_name": "Tavden Zero",
+  "package_name": "tavden-cardputerzero",
+  "bin_name": "tavden-cardputerzero",
+  "version": "0.1.0",
+  "description": "Linux-native Tavden field system proof of concept for CardputerZero",
+
+  "store": {
+    "summary": "Local system and network visibility for field work",
+    "description": "A keyboard-first Tavden proof of concept for CardputerZero. It presents system health, storage, memory, load and local interface state in a restrained 320x170 interface. Collection is local and read-only: the network module sends no packets and changes no configuration.",
+    "categories": ["System Tools", "Development"],
+    "screenshots": [
+      "screenshot/tavden-zero-overview.png",
+      "screenshot/tavden-zero-system.png",
+      "screenshot/tavden-zero-network.png"
+    ],
+    "icon": "assets/images/tavden-cardputerzero.png",
+    "license": "LicenseRef-Tavden-Proprietary",
+    "source_repo": "https://github.com/tavden/tavden-cardputerzero",
+    "author": { "github": "tavden", "display_name": "Tavden" },
+    "share_code": "TVDN",
+    "locales": {
+      "en": {
+        "title": "Tavden Zero",
+        "summary": "Local system and network visibility for field work"
+      }
+    },
+    "permissions": {
+      "camera": false,
+      "microphone": false,
+      "imu": false,
+      "network": false,
+      "additional_hardware": false,
+      "background_service": false,
+      "external_display": false
+    }
+  }
+}
