@@ -20,6 +20,10 @@ application baseline.
 > thermal behaviour remain explicitly unverified. See
 > [the hardware test plan](docs/HARDWARE_TEST_PLAN.md).
 
+Download the current
+[v0.1.0 proof-of-concept pre-release](https://github.com/tavden/tavden-cardputerzero/releases/tag/v0.1.0-poc.1),
+including the prepared arm64 Debian package and its published SHA-256 checksum.
+
 ## Current proof
 
 | Area | Status |
@@ -108,7 +112,7 @@ Repository layout:
       view/        Tavden screens, widgets, palette and navigation
       viewmodel/   actions and observable presentation state
     tests/         host-side system snapshot smoke test
-    docs/          architecture, provenance, outreach and device test plan
+    docs/          architecture, provenance, validation and device test plan
     screenshot/    native-resolution store and project screenshots
 
 More detail is in [Architecture](docs/ARCHITECTURE.md) and

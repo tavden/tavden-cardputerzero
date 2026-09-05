@@ -98,7 +98,7 @@ Evidence: photos and sysfs values.
 
 Evidence: resource log and soak result.
 
-## Acceptance gate for outreach claims
+## Acceptance gate for hardware-validated claims
 
 Before changing the README status to hardware-tested:
 

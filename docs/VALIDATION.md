@@ -33,8 +33,8 @@ The generated package was unpacked and inspected:
 - no setuid file is present; and
 - declared runtime libraries match the ELF dynamic dependencies.
 
-Cryptographic hashes are supplied in the top-level deliverable
-SHA256SUMS.txt rather than embedded here.
+The downloadable package's cryptographic hash is published with the
+[v0.1.0 proof-of-concept pre-release](https://github.com/tavden/tavden-cardputerzero/releases/tag/v0.1.0-poc.1).
 
 ## UI and screenshot inspection
 
@@ -81,9 +81,9 @@ Results:
 - title Tavden Zero was not already present; and
 - share code TVDN was not already present at the reviewed registry revision.
 
-Store metadata is prepared but has not been submitted. The source_repo URL
-assumes the project will be published at the intended Tavden repository before
-submission.
+Store metadata is prepared but has not been submitted. The `source_repo` URL
+points to the published
+[Tavden CardputerZero repository](https://github.com/tavden/tavden-cardputerzero).
 
 ## Not validated
 
